@@ -1,1 +1,1 @@
-I Learning CI/CD Devops
+I Practicing CI/CD Devops
